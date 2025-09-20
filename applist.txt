@@ -1,0 +1,2 @@
+wechat{1,"微信",wechat.exe}
+qq{2,"QQ",qq.exe}
